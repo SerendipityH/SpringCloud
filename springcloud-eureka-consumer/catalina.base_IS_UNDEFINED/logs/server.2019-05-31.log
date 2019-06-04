@@ -1,0 +1,376 @@
+2019-05-31 19:11:58.551 [main] INFO  c.s.s.SpringbootHelloworldApplication - Starting SpringbootHelloworldApplication on DESKTOP-K7E88KT with PID 16888 (E:\gqh\git\SpringBoot\springboot-helloworld\target\classes started by gqh in E:\gqh\git\SpringBoot\springboot-helloworld)
+2019-05-31 19:11:58.558 [main] INFO  c.s.s.SpringbootHelloworldApplication - No active profile set, falling back to default profiles: default
+2019-05-31 19:11:59.953 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2019-05-31 19:11:59.983 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2019-05-31 19:12:00.006 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2019-05-31 19:12:00.006 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.19]
+2019-05-31 19:12:00.161 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2019-05-31 19:12:00.161 [main] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 1540 ms
+2019-05-31 19:12:00.441 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2019-05-31 19:12:00.621 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2019-05-31 19:12:00.652 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2019-05-31 19:12:00.652 [main] INFO  c.s.s.SpringbootHelloworldApplication - Started SpringbootHelloworldApplication in 2.511 seconds (JVM running for 3.116)
+2019-05-31 19:12:09.971 [http-nio-8080-exec-1] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-05-31 19:12:09.971 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2019-05-31 19:12:09.976 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 5 ms
+2019-05-31 19:14:11.451 [main] INFO  c.s.s.SpringbootHelloworldApplication - Starting SpringbootHelloworldApplication on DESKTOP-K7E88KT with PID 18232 (E:\gqh\git\SpringBoot\springboot-helloworld\target\classes started by gqh in E:\gqh\git\SpringBoot\springboot-helloworld)
+2019-05-31 19:14:11.451 [main] INFO  c.s.s.SpringbootHelloworldApplication - No active profile set, falling back to default profiles: default
+2019-05-31 19:14:12.724 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2019-05-31 19:14:12.748 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2019-05-31 19:14:12.765 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2019-05-31 19:14:12.765 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.19]
+2019-05-31 19:14:12.889 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2019-05-31 19:14:12.891 [main] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 1390 ms
+2019-05-31 19:14:13.131 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2019-05-31 19:14:13.377 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2019-05-31 19:14:13.403 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2019-05-31 19:14:13.411 [main] INFO  c.s.s.SpringbootHelloworldApplication - Started SpringbootHelloworldApplication in 2.247 seconds (JVM running for 2.709)
+2019-05-31 19:14:29.356 [http-nio-8080-exec-1] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-05-31 19:14:29.357 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2019-05-31 19:14:29.365 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 8 ms
+2019-05-31 19:15:31.405 [main] INFO  c.s.s.SpringbootHelloworldApplication - Starting SpringbootHelloworldApplication on DESKTOP-K7E88KT with PID 12312 (E:\gqh\git\SpringBoot\springboot-helloworld\target\classes started by gqh in E:\gqh\git\SpringBoot\springboot-helloworld)
+2019-05-31 19:15:31.405 [main] INFO  c.s.s.SpringbootHelloworldApplication - No active profile set, falling back to default profiles: default
+2019-05-31 19:15:32.671 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2019-05-31 19:15:32.695 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2019-05-31 19:15:32.701 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2019-05-31 19:15:32.701 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.19]
+2019-05-31 19:15:32.841 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2019-05-31 19:15:32.841 [main] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 1390 ms
+2019-05-31 19:15:33.071 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2019-05-31 19:15:33.251 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2019-05-31 19:15:33.281 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2019-05-31 19:15:33.291 [main] INFO  c.s.s.SpringbootHelloworldApplication - Started SpringbootHelloworldApplication in 2.17 seconds (JVM running for 2.673)
+2019-05-31 19:15:46.816 [http-nio-8080-exec-1] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-05-31 19:15:46.816 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2019-05-31 19:15:46.824 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 8 ms
+2019-05-31 19:19:38.991 [main] INFO  c.s.s.SpringbootHelloworldApplication - Starting SpringbootHelloworldApplication on DESKTOP-K7E88KT with PID 16488 (E:\gqh\git\SpringBoot\springboot-helloworld\target\classes started by gqh in E:\gqh\git\SpringBoot\springboot-helloworld)
+2019-05-31 19:19:38.991 [main] INFO  c.s.s.SpringbootHelloworldApplication - No active profile set, falling back to default profiles: default
+2019-05-31 19:19:40.275 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2019-05-31 19:19:40.291 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2019-05-31 19:19:40.305 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2019-05-31 19:19:40.305 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.19]
+2019-05-31 19:19:40.431 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2019-05-31 19:19:40.431 [main] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 1380 ms
+2019-05-31 19:19:40.651 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2019-05-31 19:19:40.841 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2019-05-31 19:19:40.864 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2019-05-31 19:19:40.864 [main] INFO  c.s.s.SpringbootHelloworldApplication - Started SpringbootHelloworldApplication in 2.153 seconds (JVM running for 2.64)
+2019-05-31 19:19:48.396 [http-nio-8080-exec-1] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-05-31 19:19:48.396 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2019-05-31 19:19:48.401 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 5 ms
+2019-05-31 19:35:15.003 [main] INFO  c.s.s.SpringbootHelloworldApplication - Starting SpringbootHelloworldApplication on DESKTOP-K7E88KT with PID 18056 (E:\gqh\git\SpringBoot\springboot-helloworld\target\classes started by gqh in E:\gqh\git\SpringBoot\springboot-helloworld)
+2019-05-31 19:35:15.014 [main] INFO  c.s.s.SpringbootHelloworldApplication - No active profile set, falling back to default profiles: default
+2019-05-31 19:35:20.393 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2019-05-31 19:35:20.427 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2019-05-31 19:35:20.474 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2019-05-31 19:35:20.477 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.19]
+2019-05-31 19:35:20.840 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2019-05-31 19:35:20.842 [main] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 5623 ms
+2019-05-31 19:35:22.381 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2019-05-31 19:35:23.459 [main] INFO  o.s.b.actuate.endpoint.web.EndpointLinksResolver - Exposing 2 endpoint(s) beneath base path '/actuator'
+2019-05-31 19:35:23.663 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2019-05-31 19:35:23.742 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2019-05-31 19:35:23.746 [main] INFO  c.s.s.SpringbootHelloworldApplication - Started SpringbootHelloworldApplication in 9.854 seconds (JVM running for 10.87)
+2019-05-31 19:36:41.957 [http-nio-8080-exec-3] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-05-31 19:36:41.957 [http-nio-8080-exec-3] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2019-05-31 19:36:41.975 [http-nio-8080-exec-3] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 18 ms
+2019-05-31 19:37:55.688 [main] INFO  c.s.s.SpringbootHelloworldApplication - Starting SpringbootHelloworldApplication on DESKTOP-K7E88KT with PID 7452 (E:\gqh\git\SpringBoot\springboot-helloworld\target\classes started by gqh in E:\gqh\git\SpringBoot\springboot-helloworld)
+2019-05-31 19:37:55.694 [main] INFO  c.s.s.SpringbootHelloworldApplication - No active profile set, falling back to default profiles: default
+2019-05-31 19:38:02.803 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8888 (http)
+2019-05-31 19:38:02.840 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8888"]
+2019-05-31 19:38:02.890 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2019-05-31 19:38:02.892 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.19]
+2019-05-31 19:38:03.316 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2019-05-31 19:38:03.316 [main] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 7372 ms
+2019-05-31 19:38:05.551 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2019-05-31 19:38:07.071 [main] INFO  o.s.b.actuate.endpoint.web.EndpointLinksResolver - Exposing 2 endpoint(s) beneath base path '/actuator'
+2019-05-31 19:38:07.330 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8888"]
+2019-05-31 19:38:07.526 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8888 (http) with context path ''
+2019-05-31 19:38:07.538 [main] INFO  c.s.s.SpringbootHelloworldApplication - Started SpringbootHelloworldApplication in 12.753 seconds (JVM running for 13.918)
+2019-05-31 20:34:46.473 [main] INFO  c.s.s.SpringbootHelloworldApplication - Starting SpringbootHelloworldApplication on DESKTOP-K7E88KT with PID 4672 (E:\gqh\git\SpringBoot\springboot-helloworld\target\classes started by gqh in E:\gqh\git\SpringBoot\springboot-helloworld)
+2019-05-31 20:34:46.482 [main] INFO  c.s.s.SpringbootHelloworldApplication - No active profile set, falling back to default profiles: default
+2019-05-31 20:34:52.022 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2019-05-31 20:34:52.062 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2019-05-31 20:34:52.100 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2019-05-31 20:34:52.101 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.19]
+2019-05-31 20:34:52.505 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2019-05-31 20:34:52.506 [main] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 5821 ms
+2019-05-31 20:34:54.280 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2019-05-31 20:34:55.403 [main] INFO  o.s.b.actuate.endpoint.web.EndpointLinksResolver - Exposing 2 endpoint(s) beneath base path '/actuator'
+2019-05-31 20:34:55.623 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2019-05-31 20:34:55.702 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2019-05-31 20:34:55.705 [main] INFO  c.s.s.SpringbootHelloworldApplication - Started SpringbootHelloworldApplication in 10.153 seconds (JVM running for 11.448)
+2019-05-31 20:40:49.966 [http-nio-8080-exec-1] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-05-31 20:40:49.966 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2019-05-31 20:40:49.974 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 8 ms
+2019-05-31 21:28:52.885 [main] INFO  c.s.s.SpringbootHelloworldApplication - Starting SpringbootHelloworldApplication on DESKTOP-K7E88KT with PID 480 (E:\gqh\git\SpringBoot\springboot-helloworld\target\classes started by gqh in E:\gqh\git\SpringBoot\springboot-helloworld)
+2019-05-31 21:28:52.888 [main] INFO  c.s.s.SpringbootHelloworldApplication - No active profile set, falling back to default profiles: default
+2019-05-31 21:28:55.026 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2019-05-31 21:28:55.043 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2019-05-31 21:28:55.062 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2019-05-31 21:28:55.062 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.19]
+2019-05-31 21:28:55.222 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2019-05-31 21:28:55.222 [main] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 2271 ms
+2019-05-31 21:28:56.066 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2019-05-31 21:28:56.200 [main] WARN  o.s.b.a.t.ThymeleafAutoConfiguration$DefaultTemplateResolverConfiguration - Cannot find template location: classpath:/templates/ (please add some templates or check your Thymeleaf configuration)
+2019-05-31 21:28:56.795 [main] INFO  o.s.b.actuate.endpoint.web.EndpointLinksResolver - Exposing 15 endpoint(s) beneath base path '/actuator'
+2019-05-31 21:28:56.857 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2019-05-31 21:28:56.881 [main] ERROR org.apache.catalina.util.LifecycleBase - Failed to start component [Connector[HTTP/1.1-8080]]
+org.apache.catalina.LifecycleException: Protocol handler start failed
+	at org.apache.catalina.connector.Connector.startInternal(Connector.java:1008)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:183)
+	at org.apache.catalina.core.StandardService.addConnector(StandardService.java:226)
+	at org.springframework.boot.web.embedded.tomcat.TomcatWebServer.addPreviouslyRemovedConnectors(TomcatWebServer.java:259)
+	at org.springframework.boot.web.embedded.tomcat.TomcatWebServer.start(TomcatWebServer.java:197)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.startWebServer(ServletWebServerApplicationContext.java:311)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.finishRefresh(ServletWebServerApplicationContext.java:164)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:552)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:142)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:775)
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:397)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:316)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1260)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1248)
+	at com.serendipity.springboothelloworld.SpringbootHelloworldApplication.main(SpringbootHelloworldApplication.java:10)
+Caused by: java.net.BindException: Address already in use: bind
+	at sun.nio.ch.Net.bind0(Native Method)
+	at sun.nio.ch.Net.bind(Net.java:433)
+	at sun.nio.ch.Net.bind(Net.java:425)
+	at sun.nio.ch.ServerSocketChannelImpl.bind(ServerSocketChannelImpl.java:223)
+	at sun.nio.ch.ServerSocketAdaptor.bind(ServerSocketAdaptor.java:74)
+	at org.apache.tomcat.util.net.NioEndpoint.initServerSocket(NioEndpoint.java:239)
+	at org.apache.tomcat.util.net.NioEndpoint.bind(NioEndpoint.java:213)
+	at org.apache.tomcat.util.net.AbstractEndpoint.bindWithCleanup(AbstractEndpoint.java:1116)
+	at org.apache.tomcat.util.net.AbstractEndpoint.start(AbstractEndpoint.java:1202)
+	at org.apache.coyote.AbstractProtocol.start(AbstractProtocol.java:568)
+	at org.apache.catalina.connector.Connector.startInternal(Connector.java:1005)
+	... 14 common frames omitted
+2019-05-31 21:28:56.891 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Pausing ProtocolHandler ["http-nio-8080"]
+2019-05-31 21:28:56.891 [main] INFO  org.apache.catalina.core.StandardService - Stopping service [Tomcat]
+2019-05-31 21:28:56.902 [main] INFO  org.apache.catalina.util.LifecycleBase - The stop() method was called on component [StandardServer[-1]] after stop() had already been called. The second call will be ignored.
+2019-05-31 21:28:56.903 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Stopping ProtocolHandler ["http-nio-8080"]
+2019-05-31 21:28:56.903 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Destroying ProtocolHandler ["http-nio-8080"]
+2019-05-31 21:28:56.906 [main] INFO  o.s.b.a.l.ConditionEvaluationReportLoggingListener - 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2019-05-31 21:28:56.908 [main] ERROR o.s.b.diagnostics.LoggingFailureAnalysisReporter - 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+The Tomcat connector configured to listen on port 8080 failed to start. The port may already be in use or the connector may be misconfigured.
+
+Action:
+
+Verify the connector's configuration, identify and stop any process that's listening on port 8080, or configure this application to listen on another port.
+
+2019-05-31 21:28:56.928 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2019-05-31 21:29:37.576 [main] INFO  c.s.s.SpringbootHelloworldApplication - Starting SpringbootHelloworldApplication on DESKTOP-K7E88KT with PID 7728 (E:\gqh\git\SpringBoot\springboot-helloworld\target\classes started by gqh in E:\gqh\git\SpringBoot\springboot-helloworld)
+2019-05-31 21:29:37.578 [main] INFO  c.s.s.SpringbootHelloworldApplication - No active profile set, falling back to default profiles: default
+2019-05-31 21:29:39.318 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2019-05-31 21:29:39.331 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2019-05-31 21:29:39.342 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2019-05-31 21:29:39.342 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.19]
+2019-05-31 21:29:39.449 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2019-05-31 21:29:39.450 [main] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 1827 ms
+2019-05-31 21:29:40.094 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2019-05-31 21:29:40.214 [main] WARN  o.s.b.a.t.ThymeleafAutoConfiguration$DefaultTemplateResolverConfiguration - Cannot find template location: classpath:/templates/ (please add some templates or check your Thymeleaf configuration)
+2019-05-31 21:29:40.697 [main] INFO  o.s.b.actuate.endpoint.web.EndpointLinksResolver - Exposing 15 endpoint(s) beneath base path '/actuator'
+2019-05-31 21:29:40.745 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2019-05-31 21:29:40.778 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2019-05-31 21:29:40.782 [main] INFO  c.s.s.SpringbootHelloworldApplication - Started SpringbootHelloworldApplication in 3.48 seconds (JVM running for 3.979)
+2019-05-31 21:37:52.904 [main] INFO  c.s.s.SpringbootHelloworldApplication - Starting SpringbootHelloworldApplication on DESKTOP-K7E88KT with PID 10828 (E:\gqh\git\SpringBoot\springboot-helloworld\target\classes started by gqh in E:\gqh\git\SpringBoot\springboot-helloworld)
+2019-05-31 21:37:52.906 [main] INFO  c.s.s.SpringbootHelloworldApplication - No active profile set, falling back to default profiles: default
+2019-05-31 21:37:55.082 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2019-05-31 21:37:55.100 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2019-05-31 21:37:55.116 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2019-05-31 21:37:55.117 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.19]
+2019-05-31 21:37:55.280 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2019-05-31 21:37:55.280 [main] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 2307 ms
+2019-05-31 21:37:56.061 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2019-05-31 21:37:56.218 [main] WARN  o.s.b.a.t.ThymeleafAutoConfiguration$DefaultTemplateResolverConfiguration - Cannot find template location: classpath:/templates/ (please add some templates or check your Thymeleaf configuration)
+2019-05-31 21:37:56.842 [main] INFO  o.s.b.actuate.endpoint.web.EndpointLinksResolver - Exposing 13 endpoint(s) beneath base path '/actuator'
+2019-05-31 21:37:56.912 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2019-05-31 21:37:56.938 [main] ERROR org.apache.catalina.util.LifecycleBase - Failed to start component [Connector[HTTP/1.1-8080]]
+org.apache.catalina.LifecycleException: Protocol handler start failed
+	at org.apache.catalina.connector.Connector.startInternal(Connector.java:1008)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:183)
+	at org.apache.catalina.core.StandardService.addConnector(StandardService.java:226)
+	at org.springframework.boot.web.embedded.tomcat.TomcatWebServer.addPreviouslyRemovedConnectors(TomcatWebServer.java:259)
+	at org.springframework.boot.web.embedded.tomcat.TomcatWebServer.start(TomcatWebServer.java:197)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.startWebServer(ServletWebServerApplicationContext.java:311)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.finishRefresh(ServletWebServerApplicationContext.java:164)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:552)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:142)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:775)
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:397)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:316)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1260)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1248)
+	at com.serendipity.springboothelloworld.SpringbootHelloworldApplication.main(SpringbootHelloworldApplication.java:10)
+Caused by: java.net.BindException: Address already in use: bind
+	at sun.nio.ch.Net.bind0(Native Method)
+	at sun.nio.ch.Net.bind(Net.java:433)
+	at sun.nio.ch.Net.bind(Net.java:425)
+	at sun.nio.ch.ServerSocketChannelImpl.bind(ServerSocketChannelImpl.java:223)
+	at sun.nio.ch.ServerSocketAdaptor.bind(ServerSocketAdaptor.java:74)
+	at org.apache.tomcat.util.net.NioEndpoint.initServerSocket(NioEndpoint.java:239)
+	at org.apache.tomcat.util.net.NioEndpoint.bind(NioEndpoint.java:213)
+	at org.apache.tomcat.util.net.AbstractEndpoint.bindWithCleanup(AbstractEndpoint.java:1116)
+	at org.apache.tomcat.util.net.AbstractEndpoint.start(AbstractEndpoint.java:1202)
+	at org.apache.coyote.AbstractProtocol.start(AbstractProtocol.java:568)
+	at org.apache.catalina.connector.Connector.startInternal(Connector.java:1005)
+	... 14 common frames omitted
+2019-05-31 21:37:56.944 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Pausing ProtocolHandler ["http-nio-8080"]
+2019-05-31 21:37:56.944 [main] INFO  org.apache.catalina.core.StandardService - Stopping service [Tomcat]
+2019-05-31 21:37:56.955 [main] INFO  org.apache.catalina.util.LifecycleBase - The stop() method was called on component [StandardServer[-1]] after stop() had already been called. The second call will be ignored.
+2019-05-31 21:37:56.956 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Stopping ProtocolHandler ["http-nio-8080"]
+2019-05-31 21:37:56.956 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Destroying ProtocolHandler ["http-nio-8080"]
+2019-05-31 21:37:56.960 [main] INFO  o.s.b.a.l.ConditionEvaluationReportLoggingListener - 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2019-05-31 21:37:56.962 [main] ERROR o.s.b.diagnostics.LoggingFailureAnalysisReporter - 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+The Tomcat connector configured to listen on port 8080 failed to start. The port may already be in use or the connector may be misconfigured.
+
+Action:
+
+Verify the connector's configuration, identify and stop any process that's listening on port 8080, or configure this application to listen on another port.
+
+2019-05-31 21:37:56.995 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2019-05-31 21:38:20.060 [main] INFO  c.s.s.SpringbootHelloworldApplication - Starting SpringbootHelloworldApplication on DESKTOP-K7E88KT with PID 15644 (E:\gqh\git\SpringBoot\springboot-helloworld\target\classes started by gqh in E:\gqh\git\SpringBoot\springboot-helloworld)
+2019-05-31 21:38:20.063 [main] INFO  c.s.s.SpringbootHelloworldApplication - No active profile set, falling back to default profiles: default
+2019-05-31 21:38:22.189 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2019-05-31 21:38:22.206 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2019-05-31 21:38:22.220 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2019-05-31 21:38:22.220 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.19]
+2019-05-31 21:38:22.417 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2019-05-31 21:38:22.418 [main] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 2295 ms
+2019-05-31 21:38:23.244 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2019-05-31 21:38:23.392 [main] WARN  o.s.b.a.t.ThymeleafAutoConfiguration$DefaultTemplateResolverConfiguration - Cannot find template location: classpath:/templates/ (please add some templates or check your Thymeleaf configuration)
+2019-05-31 21:38:23.955 [main] INFO  o.s.b.actuate.endpoint.web.EndpointLinksResolver - Exposing 13 endpoint(s) beneath base path '/actuator'
+2019-05-31 21:38:24.023 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2019-05-31 21:38:24.068 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2019-05-31 21:38:24.074 [main] INFO  c.s.s.SpringbootHelloworldApplication - Started SpringbootHelloworldApplication in 4.326 seconds (JVM running for 4.912)
+2019-05-31 21:40:21.141 [main] INFO  c.s.s.SpringbootHelloworldApplication - Starting SpringbootHelloworldApplication on DESKTOP-K7E88KT with PID 14504 (E:\gqh\git\SpringBoot\springboot-helloworld\target\classes started by gqh in E:\gqh\git\SpringBoot\springboot-helloworld)
+2019-05-31 21:40:21.143 [main] INFO  c.s.s.SpringbootHelloworldApplication - No active profile set, falling back to default profiles: default
+2019-05-31 21:40:23.236 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2019-05-31 21:40:23.256 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2019-05-31 21:40:23.270 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2019-05-31 21:40:23.270 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.19]
+2019-05-31 21:40:23.413 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2019-05-31 21:40:23.413 [main] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 2207 ms
+2019-05-31 21:40:24.159 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2019-05-31 21:40:24.292 [main] WARN  o.s.b.a.t.ThymeleafAutoConfiguration$DefaultTemplateResolverConfiguration - Cannot find template location: classpath:/templates/ (please add some templates or check your Thymeleaf configuration)
+2019-05-31 21:40:24.914 [main] INFO  o.s.b.actuate.endpoint.web.EndpointLinksResolver - Exposing 15 endpoint(s) beneath base path '/actuator'
+2019-05-31 21:40:24.995 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2019-05-31 21:40:25.061 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2019-05-31 21:40:25.074 [main] INFO  c.s.s.SpringbootHelloworldApplication - Started SpringbootHelloworldApplication in 4.236 seconds (JVM running for 4.795)
+2019-05-31 21:47:53.549 [main] INFO  c.s.s.SpringbootHelloworldApplication - Starting SpringbootHelloworldApplication on DESKTOP-K7E88KT with PID 7372 (E:\gqh\git\SpringBoot\springboot-helloworld\target\classes started by gqh in E:\gqh\git\SpringBoot\springboot-helloworld)
+2019-05-31 21:47:53.552 [main] INFO  c.s.s.SpringbootHelloworldApplication - No active profile set, falling back to default profiles: default
+2019-05-31 21:47:55.152 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2019-05-31 21:47:55.169 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2019-05-31 21:47:55.180 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2019-05-31 21:47:55.180 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.19]
+2019-05-31 21:47:55.312 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2019-05-31 21:47:55.312 [main] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 1717 ms
+2019-05-31 21:47:55.910 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2019-05-31 21:47:56.018 [main] WARN  o.s.b.a.t.ThymeleafAutoConfiguration$DefaultTemplateResolverConfiguration - Cannot find template location: classpath:/templates/ (please add some templates or check your Thymeleaf configuration)
+2019-05-31 21:47:56.530 [main] INFO  o.s.b.actuate.endpoint.web.EndpointLinksResolver - Exposing 15 endpoint(s) beneath base path '/actuator'
+2019-05-31 21:47:56.593 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2019-05-31 21:47:56.647 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2019-05-31 21:47:56.651 [main] INFO  c.s.s.SpringbootHelloworldApplication - Started SpringbootHelloworldApplication in 3.406 seconds (JVM running for 3.865)
+2019-05-31 21:49:13.026 [http-nio-8080-exec-1] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-05-31 21:49:13.026 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2019-05-31 21:49:13.033 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 7 ms
+2019-05-31 21:52:03.832 [main] INFO  c.s.s.SpringbootHelloworldApplication - Starting SpringbootHelloworldApplication on DESKTOP-K7E88KT with PID 3160 (E:\gqh\git\SpringBoot\springboot-helloworld\target\classes started by gqh in E:\gqh\git\SpringBoot\springboot-helloworld)
+2019-05-31 21:52:03.835 [main] INFO  c.s.s.SpringbootHelloworldApplication - No active profile set, falling back to default profiles: default
+2019-05-31 21:52:05.659 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2019-05-31 21:52:05.673 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2019-05-31 21:52:05.683 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2019-05-31 21:52:05.683 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.19]
+2019-05-31 21:52:05.804 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2019-05-31 21:52:05.804 [main] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 1915 ms
+2019-05-31 21:52:06.507 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2019-05-31 21:52:06.611 [main] WARN  o.s.b.a.t.ThymeleafAutoConfiguration$DefaultTemplateResolverConfiguration - Cannot find template location: classpath:/templates/ (please add some templates or check your Thymeleaf configuration)
+2019-05-31 21:52:07.085 [main] INFO  o.s.b.actuate.endpoint.web.EndpointLinksResolver - Exposing 15 endpoint(s) beneath base path '/actuator'
+2019-05-31 21:52:07.133 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2019-05-31 21:52:07.162 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2019-05-31 21:52:07.166 [main] INFO  c.s.s.SpringbootHelloworldApplication - Started SpringbootHelloworldApplication in 3.627 seconds (JVM running for 4.1)
+2019-05-31 21:52:44.297 [main] INFO  c.s.s.SpringbootHelloworldApplication - Starting SpringbootHelloworldApplication on DESKTOP-K7E88KT with PID 10956 (E:\gqh\git\SpringBoot\springboot-helloworld\target\classes started by gqh in E:\gqh\git\SpringBoot\springboot-helloworld)
+2019-05-31 21:52:44.299 [main] INFO  c.s.s.SpringbootHelloworldApplication - No active profile set, falling back to default profiles: default
+2019-05-31 21:52:46.295 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2019-05-31 21:52:46.315 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2019-05-31 21:52:46.330 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2019-05-31 21:52:46.331 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.19]
+2019-05-31 21:52:46.465 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2019-05-31 21:52:46.465 [main] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 2117 ms
+2019-05-31 21:52:47.103 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2019-05-31 21:52:47.228 [main] WARN  o.s.b.a.t.ThymeleafAutoConfiguration$DefaultTemplateResolverConfiguration - Cannot find template location: classpath:/templates/ (please add some templates or check your Thymeleaf configuration)
+2019-05-31 21:52:47.720 [main] INFO  o.s.b.actuate.endpoint.web.EndpointLinksResolver - Exposing 15 endpoint(s) beneath base path '/actuator'
+2019-05-31 21:52:47.767 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2019-05-31 21:52:47.797 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2019-05-31 21:52:47.804 [main] INFO  c.s.s.SpringbootHelloworldApplication - Started SpringbootHelloworldApplication in 3.782 seconds (JVM running for 4.31)
+2019-05-31 21:54:29.350 [main] INFO  c.s.s.SpringbootHelloworldApplication - Starting SpringbootHelloworldApplication on DESKTOP-K7E88KT with PID 11612 (E:\gqh\git\SpringBoot\springboot-helloworld\target\classes started by gqh in E:\gqh\git\SpringBoot\springboot-helloworld)
+2019-05-31 21:54:29.352 [main] INFO  c.s.s.SpringbootHelloworldApplication - No active profile set, falling back to default profiles: default
+2019-05-31 21:54:31.077 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2019-05-31 21:54:31.092 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2019-05-31 21:54:31.105 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2019-05-31 21:54:31.105 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.19]
+2019-05-31 21:54:31.219 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2019-05-31 21:54:31.220 [main] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 1822 ms
+2019-05-31 21:54:31.659 [main] INFO  o.s.b.a.endpoint.web.ServletEndpointRegistrar - Registered '/actuator/jolokia' to jolokia-actuator-endpoint
+2019-05-31 21:54:31.806 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2019-05-31 21:54:32.086 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskScheduler - Initializing ExecutorService
+2019-05-31 21:54:32.162 [main] INFO  o.s.b.actuate.endpoint.web.EndpointLinksResolver - Exposing 16 endpoint(s) beneath base path '/actuator'
+2019-05-31 21:54:32.222 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2019-05-31 21:54:32.255 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2019-05-31 21:54:32.259 [main] INFO  c.s.s.SpringbootHelloworldApplication - Started SpringbootHelloworldApplication in 3.155 seconds (JVM running for 3.594)
+2019-05-31 21:54:59.833 [registrationTask1] INFO  d.c.b.a.client.registration.ApplicationRegistrator - Application registered itself as dab30bbc2551
+2019-05-31 21:54:59.905 [http-nio-8080-exec-1] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-05-31 21:54:59.905 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2019-05-31 21:54:59.911 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 6 ms
+2019-05-31 21:55:55.168 [registrationTask1] WARN  d.c.b.a.client.registration.ApplicationRegistrator - Failed to register application as Application(name=spring-boot-application, managementUrl=http://DESKTOP-K7E88KT:8080/actuator, healthUrl=http://DESKTOP-K7E88KT:8080/actuator/health, serviceUrl=http://DESKTOP-K7E88KT:8080/) at spring-boot-admin ([http://127.0.0.1:9090/instances]): I/O error on POST request for "http://127.0.0.1:9090/instances": Connection refused: connect; nested exception is java.net.ConnectException: Connection refused: connect. Further attempts are logged on DEBUG level
+2019-05-31 21:59:28.256 [main] INFO  c.s.s.SpringbootHelloworldApplication - Starting SpringbootHelloworldApplication on DESKTOP-K7E88KT with PID 14860 (E:\gqh\git\SpringBoot\springboot-helloworld\target\classes started by gqh in E:\gqh\git\SpringBoot\springboot-helloworld)
+2019-05-31 21:59:28.258 [main] INFO  c.s.s.SpringbootHelloworldApplication - No active profile set, falling back to default profiles: default
+2019-05-31 21:59:29.757 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2019-05-31 21:59:29.771 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2019-05-31 21:59:29.781 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2019-05-31 21:59:29.781 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.19]
+2019-05-31 21:59:29.874 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2019-05-31 21:59:29.874 [main] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 1562 ms
+2019-05-31 21:59:30.247 [main] INFO  o.s.b.a.endpoint.web.ServletEndpointRegistrar - Registered '/actuator/jolokia' to jolokia-actuator-endpoint
+2019-05-31 21:59:30.404 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2019-05-31 21:59:30.645 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskScheduler - Initializing ExecutorService
+2019-05-31 21:59:30.714 [main] INFO  o.s.b.actuate.endpoint.web.EndpointLinksResolver - Exposing 16 endpoint(s) beneath base path '/actuator'
+2019-05-31 21:59:30.774 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2019-05-31 21:59:30.801 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2019-05-31 21:59:30.805 [main] INFO  c.s.s.SpringbootHelloworldApplication - Started SpringbootHelloworldApplication in 2.798 seconds (JVM running for 3.229)
+2019-05-31 21:59:58.304 [registrationTask1] INFO  d.c.b.a.client.registration.ApplicationRegistrator - Application registered itself as dab30bbc2551
+2019-05-31 21:59:58.399 [http-nio-8080-exec-1] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-05-31 21:59:58.399 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2019-05-31 21:59:58.407 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 8 ms
+2019-05-31 22:03:00.501 [main] INFO  c.s.s.SpringbootHelloworldApplication - Starting SpringbootHelloworldApplication on DESKTOP-K7E88KT with PID 18556 (E:\gqh\git\SpringBoot\springboot-helloworld\target\classes started by gqh in E:\gqh\git\SpringBoot\springboot-helloworld)
+2019-05-31 22:03:00.503 [main] INFO  c.s.s.SpringbootHelloworldApplication - No active profile set, falling back to default profiles: default
+2019-05-31 22:03:01.873 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2019-05-31 22:03:01.887 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2019-05-31 22:03:01.899 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2019-05-31 22:03:01.899 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.19]
+2019-05-31 22:03:01.981 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2019-05-31 22:03:01.982 [main] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 1430 ms
+2019-05-31 22:03:02.367 [main] INFO  o.s.b.a.endpoint.web.ServletEndpointRegistrar - Registered '/actuator/jolokia' to jolokia-actuator-endpoint
+2019-05-31 22:03:02.525 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2019-05-31 22:03:02.766 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskScheduler - Initializing ExecutorService
+2019-05-31 22:03:02.828 [main] INFO  o.s.b.actuate.endpoint.web.EndpointLinksResolver - Exposing 16 endpoint(s) beneath base path '/actuator'
+2019-05-31 22:03:02.872 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2019-05-31 22:03:02.900 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2019-05-31 22:03:02.904 [main] INFO  c.s.s.SpringbootHelloworldApplication - Started SpringbootHelloworldApplication in 2.648 seconds (JVM running for 3.076)
